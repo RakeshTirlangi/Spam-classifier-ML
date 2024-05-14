@@ -1,4 +1,4 @@
-# Spam-classifier-ML
+# Spam-Classifier-Machine-Learning
 Intelligent Spam Filtering with Machine Learning
 
 ## Intelligent Spam Filtering: A Machine Learning Approach to Email/Message Security
@@ -14,6 +14,10 @@ In today's digital age, overflowing inboxes are a common challenge. Spam emails/
 * **Increase productivity:** Minimize the time spent sorting through spam by automating the detection process, allowing users to focus on important messages.
 
 * **Examples**
+
+| Example Spam Message | Example Non-Spam Message |
+|---|---|
+| ![Spam Email](spam.png) | ![Non-Spam Email](non-spam.png) |
 
 **Machine Learning Approach:**
 
@@ -37,3 +41,6 @@ In today's digital age, overflowing inboxes are a common challenge. Spam emails/
 **Conclusion:**
 
 This project leverages the power of machine learning to develop a cutting-edge spam classifier. By automating spam detection, this project offers a valuable tool for a more efficient, secure, and user-friendly email experience.
+
+
+**Note** : Feel free to plan a journey through the code (.ipynb) [file is in the repo].
